@@ -1,9 +1,9 @@
 <!-- Optional Premium Banner -->
-<p align="center">
+<!-- <p align="center">
   <img src="https://github.com/Vishwanathhatti/Vishwanathhatti/blob/main/assets/banner.png"
        alt="Glass Banner"
        style="border-radius:18px; max-width:100%;" />
-</p>
+</p> -->
 
 <h1 align="center">👋 Hi, I'm <strong>Vishwanath Hatti</strong></h1>
 
@@ -143,11 +143,7 @@
 </p>
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Vishwanathhatti&show_icons=true&hide_border=true&theme=transparent&border_radius=12&count_private=true"/>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Vishwanathhatti&theme=onestar&no-bg=true&margin-w=20&row=1"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Vishwanathhatti&theme=github_dark" />
 </p>
 
 ---
