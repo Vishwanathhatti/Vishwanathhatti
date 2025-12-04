@@ -1,14 +1,14 @@
-<!-- PREMIUM GLASSMORPHIC HEADER -->
-<!-- <p align="center">
-  <img src="https://github.com/Vishwanathhatti/Vishwanathhatti/blob/main/assets/banner.png" 
-       alt="Glassmorphic Banner" 
-       style="border-radius: 18px; max-width: 100%;" />
-</p> -->
+<!-- Optional Premium Banner -->
+<p align="center">
+  <img src="https://github.com/Vishwanathhatti/Vishwanathhatti/blob/main/assets/banner.png"
+       alt="Glass Banner"
+       style="border-radius:18px; max-width:100%;" />
+</p>
 
 <h1 align="center">👋 Hi, I'm <strong>Vishwanath Hatti</strong></h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=FFD369&lines=Full-Stack+Developer;MERN+%7C+FastAPI+%7C+PostgreSQL;Cloud+Deployments+%7C+REST+APIs;Always+Learning+%7C+Building;Problem+Solver+%7C+Team+Collaborator&center=true&width=500&height=45" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=F8D866&center=true&vCenter=true&width=500&lines=Full-Stack+Developer;MERN+%7C+FastAPI+%7C+PostgreSQL;Cloud+Deployments+%7C+REST+APIs;Clean+Architecture+%7C+Modern+UI;Always+Learning+%7C+Building" />
 </p>
 
 ---
@@ -16,145 +16,138 @@
 ## 👨‍💻 About Me  
 
 💼 Full-Stack Developer Intern at **Shakham Inc**  
-⚡ Building robust APIs, scalable systems & modern UIs  
-🌱 Learning Cloud, DevOps & System Design  
-🤝 Love collaborating and helping peers grow  
-🚀 Passionate about building efficient, impactful digital solutions  
+⚡ Skilled in MERN, FastAPI, PostgreSQL & scalable backend systems  
+🌍 Experienced in multi-env deployments (Dev, QA, Prod)  
+💡 Passionate about Cloud, Architecture & Problem Solving  
+🤝 Love collaborating, mentoring, and building meaningful products  
 
 ---
 
-# 🛠️ Tech Stack (Premium Grid • Icons + Names)
+# 🛠 Tech Stack (Premium Grid)
 
-### **Frontend**
+---
+
+## 🎨 **Frontend**
+
+<table align="center">
+  <tr>
+    <td align="center" width="150">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="55"><br/><sub><b>React</b></sub>
+    </td>
+    <td align="center" width="150">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="55"><br/><sub><b>Next.js</b></sub>
+    </td>
+    <td align="center" width="150">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="55"><br/><sub><b>JavaScript</b></sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="150">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="55"><br/><sub><b>HTML</b></sub>
+    </td>
+    <td align="center" width="150">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="55"><br/><sub><b>CSS</b></sub>
+    </td>
+    <td align="center" width="150">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="55"><br/><sub><b>Tailwind</b></sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="150">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="55"><br/><sub><b>Bootstrap</b></sub>
+    </td>
+  </tr>
+</table>
+
+---
+
+## ⚙️ **Backend**
+
+<table align="center">
+  <tr>
+    <td align="center" width="150">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="55"><br/><sub><b>Node.js</b></sub>
+    </td>
+    <td align="center" width="150">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="55"><br/><sub><b>Express</b></sub>
+    </td>
+    <td align="center" width="150">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="55"><br/><sub><b>FastAPI</b></sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="150">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="55"><br/><sub><b>Python</b></sub>
+    </td>
+  </tr>
+</table>
+
+---
+
+## 🗄️ **Databases**
+
+<table align="center">
+  <tr>
+    <td align="center" width="150">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="55"><br/><sub><b>MongoDB</b></sub>
+    </td>
+    <td align="center" width="150">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="55"><br/><sub><b>PostgreSQL</b></sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="150">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="55"><br/><sub><b>MySQL</b></sub>
+    </td>
+    <td align="center" width="150">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/neo4j/neo4j-original.svg" width="55"><br/><sub><b>Neo4j</b></sub>
+    </td>
+  </tr>
+</table>
+
+---
+
+## ☁️ **Cloud, DevOps & Tools**
+
+<table align="center">
+  <tr>
+    <td align="center" width="150">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="55"><br/><sub><b>Azure</b></sub>
+    </td>
+    <td align="center" width="150">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="55"><br/><sub><b>AWS</b></sub>
+    </td>
+    <td align="center" width="150">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="55"><br/><sub><b>Git</b></sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="150">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="55"><br/><sub><b>GitHub</b></sub>
+    </td>
+    <td align="center" width="150">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pm2/pm2-original.svg" width="55"><br/><sub><b>PM2</b></sub>
+    </td>
+    <td align="center" width="150">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="55"><br/><sub><b>Linux</b></sub>
+    </td>
+  </tr>
+</table>
+
+---
+
+# 📈 GitHub Stats (Glassmorphic)
 
 <p align="center">
-  <div style="display: flex; gap: 40px; flex-wrap: wrap; justify-content: center; flex-direction:row;">
-    <div align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="55"/>
-      <br/><sub><b>React</b></sub>
-    </div>
-    <div align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="55"/>
-      <br/><sub><b>Next.js</b></sub>
-    </div>
-    <div align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="55"/>
-      <br/><sub><b>JavaScript</b></sub>
-    </div>
-    <div align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="55"/>
-      <br/><sub><b>HTML</b></sub>
-    </div>
-    <div align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="55"/>
-      <br/><sub><b>CSS</b></sub>
-    </div>
-    <div align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="55"/>
-      <br/><sub><b>Tailwind</b></sub>
-    </div>
-    <div align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="55"/>
-      <br/><sub><b>Bootstrap</b></sub>
-    </div>
-
-  </div>
+  <img height="180" src="https://streak-stats.demolab.com?user=Vishwanathhatti&theme=transparent&hide_border=true&border_radius=12&ring=F8D866&fire=F8D866"/>
 </p>
 
----
-
-### **Backend**
 <p align="center">
-  <div style="display: flex; gap: 40px; flex-wrap: wrap; justify-content: center; flex-direction:row;">
-    <div align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="55"/>
-      <br/><sub><b>Node.js</b></sub>
-    </div>
-    <div align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="55"/>
-      <br/><sub><b>Express</b></sub>
-    </div>
-    <div align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="55"/>
-      <br/><sub><b>FastAPI</b></sub>
-    </div>
-    <div align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="55"/>
-      <br/><sub><b>Python</b></sub>
-    </div>
-
-  </div>
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Vishwanathhatti&show_icons=true&hide_border=true&theme=transparent&border_radius=12&count_private=true"/>
 </p>
 
----
-
-### **Databases**
 <p align="center">
-  <div style="display: flex; gap: 40px; flex-wrap: wrap; justify-content: center;  flex-direction:row;">
-    <div align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="55"/>
-      <br/><sub><b>MongoDB</b></sub>
-    </div>
-    <div align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="55"/>
-      <br/><sub><b>PostgreSQL</b></sub>
-    </div>
-    <div align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="55"/>
-      <br/><sub><b>MySQL</b></sub>
-    </div>
-    <div align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/neo4j/neo4j-original.svg" width="55"/>
-      <br/><sub><b>Neo4j</b></sub>
-    </div>
-
-  </div>
-</p>
-
----
-
-### **Cloud, DevOps & Tools**
-<p align="center">
-  <div style="display: flex; gap: 40px; flex-wrap: wrap; justify-content: center; flex-direction:row;">
-    <div align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="55"/>
-      <br/><sub><b>Azure</b></sub>
-    </div>
-    <div align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="55"/>
-      <br/><sub><b>AWS</b></sub>
-    </div>
-    <div align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="55"/>
-      <br/><sub><b>Git</b></sub>
-    </div>
-    <div align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="55"/>
-      <br/><sub><b>GitHub</b></sub>
-    </div>
-    <div align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pm2/pm2-original.svg" width="55"/>
-      <br/><sub><b>PM2</b></sub>
-    </div>
-    <div align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="55"/>
-      <br/><sub><b>Linux</b></sub>
-    </div>
-
-  </div>
-</p>
-
----
-
-# 📈 GitHub Stats (Glassmorphic Cards)
-
-<p align="center">
-
-  <img src="https://streak-stats.demolab.com?user=Vishwanathhatti&theme=transparent&hide_border=true&border_radius=15&ring=FFBF00&fire=FF9900" height="190"/>
-
-  <img src="https://github-readme-stats.vercel.app/api?username=Vishwanathhatti&show_icons=true&count_private=true&theme=transparent&hide_border=true&border_radius=15" height="190"/>
-
-  <img src="https://github-profile-trophy.vercel.app/?username=Vishwanathhatti&theme=onestar&no-bg=true&margin-w=20&row=1" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Vishwanathhatti&theme=onestar&no-bg=true&margin-w=20&row=1"/>
 </p>
 
 ---
