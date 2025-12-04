@@ -28,7 +28,7 @@
 ### **Frontend**
 
 <p align="center">
-  <div style="display: flex; gap: 40px; flex-wrap: wrap; justify-content: center;">
+  <div style="display: flex; gap: 40px; flex-wrap: wrap; justify-content: center; flex-direction:row;">
     <div align="center">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="55"/>
       <br/><sub><b>React</b></sub>
@@ -65,7 +65,7 @@
 
 ### **Backend**
 <p align="center">
-  <div style="display: flex; gap: 40px; flex-wrap: wrap; justify-content: center;">
+  <div style="display: flex; gap: 40px; flex-wrap: wrap; justify-content: center; flex-direction:row;">
     <div align="center">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="55"/>
       <br/><sub><b>Node.js</b></sub>
@@ -90,7 +90,7 @@
 
 ### **Databases**
 <p align="center">
-  <div style="display: flex; gap: 40px; flex-wrap: wrap; justify-content: center;">
+  <div style="display: flex; gap: 40px; flex-wrap: wrap; justify-content: center;  flex-direction:row;">
     <div align="center">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="55"/>
       <br/><sub><b>MongoDB</b></sub>
@@ -115,7 +115,7 @@
 
 ### **Cloud, DevOps & Tools**
 <p align="center">
-  <div style="display: flex; gap: 40px; flex-wrap: wrap; justify-content: center;">
+  <div style="display: flex; gap: 40px; flex-wrap: wrap; justify-content: center; flex-direction:row;">
     <div align="center">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="55"/>
       <br/><sub><b>Azure</b></sub>
