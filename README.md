@@ -1,9 +1,9 @@
 <!-- PREMIUM GLASSMORPHIC HEADER -->
-<p align="center">
+<!-- <p align="center">
   <img src="https://github.com/Vishwanathhatti/Vishwanathhatti/blob/main/assets/banner.png" 
        alt="Glassmorphic Banner" 
        style="border-radius: 18px; max-width: 100%;" />
-</p>
+</p> -->
 
 <h1 align="center">👋 Hi, I'm <strong>Vishwanath Hatti</strong></h1>
 
@@ -26,39 +26,33 @@
 # 🛠️ Tech Stack (Premium Grid • Icons + Names)
 
 ### **Frontend**
+
 <p align="center">
   <div style="display: flex; gap: 40px; flex-wrap: wrap; justify-content: center;">
-
     <div align="center">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="55"/>
       <br/><sub><b>React</b></sub>
     </div>
-
     <div align="center">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="55"/>
       <br/><sub><b>Next.js</b></sub>
     </div>
-
     <div align="center">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="55"/>
       <br/><sub><b>JavaScript</b></sub>
     </div>
-
     <div align="center">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="55"/>
       <br/><sub><b>HTML</b></sub>
     </div>
-
     <div align="center">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="55"/>
       <br/><sub><b>CSS</b></sub>
     </div>
-
     <div align="center">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="55"/>
       <br/><sub><b>Tailwind</b></sub>
     </div>
-
     <div align="center">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="55"/>
       <br/><sub><b>Bootstrap</b></sub>
@@ -72,22 +66,18 @@
 ### **Backend**
 <p align="center">
   <div style="display: flex; gap: 40px; flex-wrap: wrap; justify-content: center;">
-
     <div align="center">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="55"/>
       <br/><sub><b>Node.js</b></sub>
     </div>
-
     <div align="center">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="55"/>
       <br/><sub><b>Express</b></sub>
     </div>
-
     <div align="center">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="55"/>
       <br/><sub><b>FastAPI</b></sub>
     </div>
-
     <div align="center">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="55"/>
       <br/><sub><b>Python</b></sub>
@@ -101,22 +91,18 @@
 ### **Databases**
 <p align="center">
   <div style="display: flex; gap: 40px; flex-wrap: wrap; justify-content: center;">
-
     <div align="center">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="55"/>
       <br/><sub><b>MongoDB</b></sub>
     </div>
-
     <div align="center">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="55"/>
       <br/><sub><b>PostgreSQL</b></sub>
     </div>
-
     <div align="center">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="55"/>
       <br/><sub><b>MySQL</b></sub>
     </div>
-
     <div align="center">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/neo4j/neo4j-original.svg" width="55"/>
       <br/><sub><b>Neo4j</b></sub>
@@ -130,32 +116,26 @@
 ### **Cloud, DevOps & Tools**
 <p align="center">
   <div style="display: flex; gap: 40px; flex-wrap: wrap; justify-content: center;">
-
     <div align="center">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="55"/>
       <br/><sub><b>Azure</b></sub>
     </div>
-
     <div align="center">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="55"/>
       <br/><sub><b>AWS</b></sub>
     </div>
-
     <div align="center">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="55"/>
       <br/><sub><b>Git</b></sub>
     </div>
-
     <div align="center">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="55"/>
       <br/><sub><b>GitHub</b></sub>
     </div>
-
     <div align="center">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pm2/pm2-original.svg" width="55"/>
       <br/><sub><b>PM2</b></sub>
     </div>
-
     <div align="center">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="55"/>
       <br/><sub><b>Linux</b></sub>
