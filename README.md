@@ -23,7 +23,7 @@
 
 ---
 
-# 🛠 Tech Stack (Premium Grid)
+# 🛠 Tech Stack
 
 ---
 
@@ -115,7 +115,7 @@
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="55"><br/><sub><b>Azure</b></sub>
     </td>
     <td align="center" width="150">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="55"><br/><sub><b>AWS</b></sub>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/aws-original.svg" width="55"><br/><sub><b>AWS</b></sub>
     </td>
     <td align="center" width="150">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="55"><br/><sub><b>Git</b></sub>
@@ -136,7 +136,7 @@
 
 ---
 
-# 📈 GitHub Stats (Glassmorphic)
+# 📈 GitHub Stats
 
 <p align="center">
   <img height="180" src="https://streak-stats.demolab.com?user=Vishwanathhatti&theme=transparent&hide_border=true&border_radius=12&ring=F8D866&fire=F8D866"/>
@@ -153,6 +153,9 @@
 <p align="center">
   <a href="https://linkedin.com/in/vishwanath-hatti">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+    <a href="https://vhatti.online">
+    My Portfolio
   </a>
   <a href="mailto:vhatti14@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
