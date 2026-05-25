@@ -139,11 +139,10 @@
 # 📈 GitHub Stats
 
 <p align="center">
-  <img height="180" src="https://streak-stats.demolab.com?user=Vishwanathhatti&theme=transparent&hide_border=true&border_radius=12&ring=F8D866&fire=F8D866"/>
-</p>
-
-<p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Vishwanathhatti&theme=github_dark" />
+  <br/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Vishwanathhatti&theme=github_dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Vishwanathhatti&theme=github_dark" />
 </p>
 
 ---
