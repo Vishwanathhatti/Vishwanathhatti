@@ -15,7 +15,7 @@
 
 ## 👨‍💻 About Me  
 
-💼 Full-Stack Developer Intern at **Shakham Inc**  
+💼 Full-Stack Developer  
 ⚡ Skilled in MERN, FastAPI, PostgreSQL & scalable backend systems  
 🌍 Experienced in multi-env deployments (Dev, QA, Prod)  
 💡 Passionate about Cloud, Architecture & Problem Solving  
