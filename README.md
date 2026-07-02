@@ -153,7 +153,7 @@
   <a href="https://linkedin.com/in/vishwanath-hatti">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-    <a href="https://vhatti.online">
+    <a href="https://vishwanath.info">
     My Portfolio
   </a>
   <a href="mailto:vhatti14@gmail.com">
